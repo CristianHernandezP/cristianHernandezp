@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cristian Hernández Prince
 - 👀 I’m interested in electronics and programming .
-- 🌱 I’m currently learning Gnu Radio .
+- 🌱 I’m currently learning programing .
 - 💞️ I’m looking to collaborate on USA company .
 - 📫 How to reach me :  hernandezprincecristian12@gmail.com .
 
